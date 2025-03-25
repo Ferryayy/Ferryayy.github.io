@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Mathematics (Computer Graphics), Xi'an Jiaotong University, 2024 (expected)
-* B.S. in Information and Computing Science, Shandong University, 2020
+* M.S. in Mathematics (Computer Graphics), Xi'an Jiaotong University, 2027 (expected)
+* B.S. in Information and Computing Science, Shandong University, 2024
 
 Work experience
 ======
