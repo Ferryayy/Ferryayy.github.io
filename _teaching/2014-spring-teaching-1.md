@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
+title: "Surface Fairing"
+collection: project
+type: "Horizontal topic"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Xi 'an Jiaotong University, School of Computer Science and Technology,School of Mathematics and Statistics"
+date: 2025-03-01
+location: "Xi 'an, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In CAD systems, Surface Fairing refers to the mathematical optimization method to achieve higher continuity and smoothness of the surface to meet the requirements of industrial design (such as automotive, aerospace) for high-quality surfaces.
+This project ensures surface smoothness under boundary constraints and boundary G1 constraints.
 
 Heading 1
 ======
